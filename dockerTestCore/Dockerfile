@@ -1,4 +1,4 @@
-FROM microsoft/aspnetcore-build:2.1
+FROM microsoft/aspnetcore-build:2.0
 
 WORKDIR /app
 
